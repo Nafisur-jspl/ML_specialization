@@ -2,6 +2,7 @@
 February 2016 - ? 2016
 ## Description
 In this repository you will find all my code assignments/examples/ipythons for every lesson of all courses of the Machine Learning Specialization Coursera (big datasets omitted)
+
 **Python frameworks and modules used**: miniconda, jupyter, ipython, numpy, pandas, matplotlib
 
 ## Course 1 - Machine Learning Foundations: A Case Study Approach
