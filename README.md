@@ -1,5 +1,5 @@
 # Coursera Machine Learning Specialization
-2016
+February 2016 - ? 2016
 ## Description
 My code assignments/examples/ipythons for every lesson of all courses of the Machine Learning Specialization Coursera
 
