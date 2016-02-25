@@ -37,12 +37,55 @@ My code assignments/examples/ipythons for every lesson of all courses of the Mac
 - Implement these techniques in Python.
 
 ## Course 3 - Machine Learning: Classification
+### Learning outcomes
+- Describe the input and output of a classification model.
+- Tackle both binary and multiclass classification problems.
+- Implement a logistic regression model for large-scale classification.  
+- Create a non-linear model using decision trees.
+- Improve the performance of any model using boosting.
+- Scale your methods with stochastic gradient ascent.
+- Describe the underlying decision boundaries.  
+- Build a classification model to predict sentiment in a product review dataset.  
+- Analyze financial data to predict loan defaults.
+- Use techniques for handling missing data.
+- Evaluate your models using precision-recall metrics.
+- Implement these techniques in Python.
+
 
 ## Course 4 - Machine Learning: Clustering & Retrieval
+### Learning outcomes
+- Create a document retrieval system using k-nearest neighbors.
+- Describe how k-nearest neighbors can also be used for regression and classification.
+- Identify various similarity metrics for text data.
+- Cluster documents by topic using k-means.
+- Perform mixed membership modeling using latent Dirichlet allocation (LDA).
+- Describe how to parallelize k-means using MapReduce.
+- Examine mixtures of Gaussians for density estimation.
+- Fit a mixture of Gaussian model using expectation maximization (EM).
+- Compare and contrast initialization techniques for non-convex optimization objectives.
+- Implement these techniques in Python.
 
 ## Course 5 - Machine Learning: Recommender Systems & Dimensionality Reduction
+### Learning outcomes
+- Create a collaborative filtering system.
+- Reduce dimensionality of data using SVD, PCA, and random projections.
+- Perform matrix factorization using coordinate descent.
+- Deploy latent factor models as a recommender system.
+- Handle the cold start problem using side information.
+- Examine a product recommendation application.
+- Implement these techniques in Python.
 
 ## Course 6 - Machine Learning Capstone: An Intelligent Application with Deep Learning
-
-
+### Learning outcomes
+- Explore a dataset of products, reviews and images.
+- Build a product recommender.
+- Describe how a neural network model is represented and how it encodes non-linear features.
+- Combine different types of layers and activation functions to obtain better performance.
+- Use pretrained models, such as deep features, for new classification tasks. 
+- Describe how these models can be applied in computer vision, text analytics and speech recognition.  
+- Use visual features to find the products your users want.
+- Incorporate review sentiment into the recommendation.
+- Build an end-to-end application.
+- Deploy it as a service.  
+- Implement these techniques in Python.
 
